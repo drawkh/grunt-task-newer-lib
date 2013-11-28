@@ -1,0 +1,26 @@
+{
+  "name": "grunt-task-newer-lib",
+  "description": "",
+  "main": "lib/main.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/drawk/grunt-b2pweb-newer-lib",
+  "author": {
+    "name": "Gilles G."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drawk/grunt-task-newer-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drawk/grunt-b2pweb-newer-lib/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/drawk/grunt-b2pweb-newer-lib/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
